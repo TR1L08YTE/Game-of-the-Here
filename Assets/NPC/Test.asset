@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bb9c393f37ae644da0c64baf02b5e8f, type: 3}
+  m_Name: Test
+  m_EditorClassIdentifier: 
+  npcName: Test
+  npcPortrait: {fileID: 21300000, guid: 3e8e06b1f0d3c50478733bbff0c810e8, type: 2}
+  dialogueLines:
+  - Yo Yo Yo Yo Yo
+  - What?
+  autoProgressLines: 0101
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  voiceSound: {fileID: 8300000, guid: 0fdd92f19d7d68141b0b5d8d79e11a71, type: 3}
+  voicePitch: 1

@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Checkpoint
+  - Ground
+  - Enemy
+  - Next
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Wall
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: New Layer 17
+    uniqueID: 3532621819
+    locked: 0
+  - name: New Layer 16
+    uniqueID: 4274870867
+    locked: 0
+  - name: New Layer 15
+    uniqueID: 98924553
+    locked: 0
+  - name: New Layer 14
+    uniqueID: 170558649
+    locked: 0
+  - name: New Layer 13
+    uniqueID: 2300943287
+    locked: 0
+  - name: New Layer 12
+    uniqueID: 2549062083
+    locked: 0
+  - name: New Layer 18
+    uniqueID: 2517238549
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer 11
+    uniqueID: 90076403
+    locked: 0
+  - name: New Layer 7
+    uniqueID: 853168887
+    locked: 0
+  - name: New Layer 6
+    uniqueID: 4091034437
+    locked: 0
+  - name: New Layer 4
+    uniqueID: 1091640059
+    locked: 0
+  - name: New Layer 5
+    uniqueID: 1559007121
+    locked: 0
+  - name: New Layer 10
+    uniqueID: 524028719
+    locked: 0
+  - name: New Layer 8
+    uniqueID: 319390025
+    locked: 0
+  - name: New Layer 9
+    uniqueID: 1382317611
+    locked: 0
+  - name: Background
+    uniqueID: 1545194115
+    locked: 0
+  - name: Player
+    uniqueID: 3984807111
+    locked: 0
+  - name: Floor
+    uniqueID: 3459209769
+    locked: 0
+  - name: New Layer 19
+    uniqueID: 3124745425
+    locked: 0
